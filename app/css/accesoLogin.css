@@ -1,0 +1,21 @@
+.seccionPadre {
+    background-color: #a6c2d6c6;
+}
+
+.icono-login {
+    max-width: 10%;
+    padding-right: 10px;
+}
+
+.img-login {
+    border-radius: 1rem 0 0 1rem;
+}
+
+.datos {
+    cursor: pointer;
+    color: #1689fc !important;
+}
+
+.botonVolver {
+    float: right;
+}

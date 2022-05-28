@@ -1,0 +1,11 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.gradient {
+    background: linear-gradient(90deg, #d4a99e 0%, #ea7979 100%);
+}
+
+.text-blue {
+    color: #1689fc;
+}
