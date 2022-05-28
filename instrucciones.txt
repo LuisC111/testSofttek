@@ -1,3 +1,5 @@
 Para ejecutar el proyecto Web es necesario dejar esta carpeta en la raiz:
 
 https://drive.google.com/file/d/1g9VgsVKilNaLQw_FVbIEmaQxdXI2Dxxs/view?usp=sharing
+
+Para ejecutar la base de datos es necesario primero ejecutar las tablas e inserciones luego el procedimiento almacenado y por ultimos los llamados al procedimiento.
